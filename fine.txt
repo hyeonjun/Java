@@ -1,0 +1,14 @@
+4월 26, 2022 11:34:45 오후 ch05.looger.MyLogger log
+FINE: test
+4월 26, 2022 11:34:45 오후 ch05.looger.MyLogger log
+CONFIG: test
+4월 26, 2022 11:34:45 오후 ch05.looger.MyLogger log
+INFO: test
+4월 26, 2022 11:34:45 오후 ch05.looger.MyLogger log
+WARNING: test
+4월 26, 2022 11:34:45 오후 ch05.looger.MyLogger log
+SEVERE: test
+4월 26, 2022 11:40:41 오후 ch05.looger.MyLogger warning
+WARNING: name must not be null
+4월 26, 2022 11:40:41 오후 ch05.looger.MyLogger warning
+WARNING: name too long
